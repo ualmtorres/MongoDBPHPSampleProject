@@ -1,6 +1,6 @@
 # MongoDBPHPSampleProject
 
-Proyecto de ejemplo para interactuar con MongoDB usando el driver de PHP.
+Proyecto de ejemplo para interactuar con MongoDB usando la librería PHP para MongoDB (instalada mediante Composer).
 
 El script trabajará con un MongoDB localmente proporcionando ejemplo de:
 
